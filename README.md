@@ -22,7 +22,8 @@ Selanjutnya kita akan buat program crud sederhana dan berikut flowchart program 
 
 Lalu buka file Praktikum6.py dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal python Praktikum6.py:
 
-![defe5c9b-1f16-4d8f-9c17-6fac1f57e5df](https://user-images.githubusercontent.com/115473865/205487925-1f86ceb9-a082-4d06-93be-5b1d23d94505.jpg
+![defe5c9b-1f16-4d8f-9c17-6fac1f57e5df](https://user-images.githubusercontent.com/115473865/205488401-0062df2c-9b02-41dc-9f0f-d5a2bf9128b3.jpg)
+
 
 
 dan Berikut hasilnya :
